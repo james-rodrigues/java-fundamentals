@@ -1,0 +1,8 @@
+.class
+.settings
+.mvn
+.project
+.iml
+.classpath
+/bin
+/target
